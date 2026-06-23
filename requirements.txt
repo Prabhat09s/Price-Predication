@@ -6,3 +6,6 @@ matplotlib
 seaborn
 plotly
 pickle-mixin
+streamlit
+pandas
+wordcloud
